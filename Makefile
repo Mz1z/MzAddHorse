@@ -6,3 +6,6 @@ MzAddHorse: MzAddHorse.cpp
 
 run: MzAddHorse.exe
 	./MzAddHorse.exe
+
+clean:
+	del MzAddHorse.exe
